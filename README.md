@@ -22,11 +22,11 @@ After a trip to NYC and using citibikes there, a data analyst creates a proposal
 
 #### Cleaning the data
 
-Jupyter Notebook is used to convert the trip duration data to datetime type. This measure is then used to create subsequent visualizations.
+Jupyter Notebook is used to convert the trip duration data to datetime type. 
 <table>
  <tr>
-   <td><img src="images/tripduration_original.png" width="500"/></td>
-  <td><img src="images/tripduration_new.png" width="500"/></td>
+   <td><img src="images/tripduration_original.png" width="400"/></td>
+  <td><img src="images/tripduration_new.png" width="400"/></td>
  </tr>
 </table>
 
@@ -35,13 +35,15 @@ Jupyter Notebook is used to convert the trip duration data to datetime type. Thi
 1. With a total of 2,344,224 trips in August 2019, there is much data to visualize. As per the image below, 80% of the users are Subscribers, who make regular use of the bikes and are a predictable source of income for the program. The data also shows that 65% of total bike users are predominantly males followed by females at 25%. 
 ![User Data](images/usertypes_gender.png "User Types and Gender")
 
-2. A dashboard is created to show the initial trip data analysis.
-![NYC Citibike Data](images/bike_data_overview.png "NYC Citibike Data")
+2. The below dashboard shows that the peak hours in August are 7AM-10AM and 4PM-8PM. The bike usage is across all ages, however teenagers and youngsters use more. The bike utilization visual shows the bikes used in the most popular areas. A bike repair plan can be put accordingly.
+![NYC Citibike Data](images/report_1.png "NYC Citibike Data")
+
+3.
 
 
+at least seven visualizations for the NYC Citibike analysis
 
-- at least seven visualizations for the NYC Citibike analysis
-- a description of the results for each visualization
+- 
 
 ## Summary
 
