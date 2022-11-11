@@ -11,4 +11,13 @@ After a trip to NYC and using citibikes there, a data analyst creates a proposal
 - a description of the results for each visualization
 
 ## Summary
-- high-level summary of the results and two additional visualizations are suggested for future analysis
+- high-level summary of the results
+ Target bike repairs during nonpeak hours
+ Target male population as they will more likely prefer biking shown in August bike trip data.
+ Push for subscription
+ 
+ 
+Two additional visualizations are suggested for future analysis
+- More insight into why certain starting and ending locations have more number of bikes. 
+One reason could be areas of interest (tourism) along Hudson River. Tourism group would be customers instead of subscribers.
+- Why do some locations away from the main city center show bike usage? (start locations at north of boroughs) and start/end locations at west of manhattan? could be the proximity to subway and bike to workplace or bike long distance to work. This group would mostly be subscribers.
