@@ -32,9 +32,13 @@ Jupyter Notebook is used to convert the trip duration data to datetime type. Thi
 
 #### Visualizations explained
 
-1. With a total of 2,344,224 trips in August 2019, there is much data to visualize.
+1. With a total of 2,344,224 trips in August 2019, there is much data to visualize. As per the image below, 80% of the users are Subscribers, who make regular use of the bikes and are a predictable source of income for the program. The data also shows that 65% of total bike users are predominantly males followed by females at 25%. 
+![User Data](images/usertypes_gender.png "User Types and Gender")
 
-[!NYC Citibike Data](images/bike_data_overview.png "NYC Citibike Data")
+2. A dashboard is created to show the initial trip data analysis.
+![NYC Citibike Data](images/bike_data_overview.png "NYC Citibike Data")
+
+
 
 - at least seven visualizations for the NYC Citibike analysis
 - a description of the results for each visualization
