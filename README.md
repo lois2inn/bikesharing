@@ -61,11 +61,13 @@ Jupyter Notebook is used to convert the trip duration data to datetime type.
  Push for subscription
  
  
-Two additional visualizations are suggested for future analysis
-- Trip length
-- Understand the nature of start and end locations to determine the popularity of bike usage.
-  proximity to ferry, subway to get to work.
-  tourist spots along Hudson River. Tourism group would be customers instead of subscribers.
+#### Additional visualizations for future analysis:
+- There is a need to understand why the dark colored locations in the below visualization are so popular. Are they close to ferries or subways or workplaces? Understanding the nature of these locations is crucial for establishing bike locations in Des Moines. It would also help to look at how far do bikers travel and which stations are most popular. 
+<img src="images/reco_1.png" width="600"/>
+
+- The start and stop locations for bike rides can also be analyzed based on gender. A closer examination of the station locations might provide clarity on why more women aren't using the bike-share program.
+<img src="images/reco_2.png" width="600"/>
+
+- The distance covered in a trip can be studied along with duration and subscription costs to get a better picture of why users prefer bikes compared to other transport.
+
   
-  
-- Why do some locations away from the main city center show bike usage? (start locations at north of boroughs) and start/end locations at west of manhattan? could be the proximity to subway and bike to workplace or bike long distance to work. This group would mostly be subscribers.
