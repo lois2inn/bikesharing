@@ -38,12 +38,20 @@ Jupyter Notebook is used to convert the trip duration data to datetime type.
 2. The below dashboard shows that the peak hours in August are 7AM-10AM and 4PM-8PM. The bike usage is across all ages, however teenagers and youngsters use more. The bike utilization visual shows the bikes used in the most popular areas. A bike repair plan can be put accordingly.
 ![NYC Citibike Data](images/report_1.png "NYC Citibike Data")
 
-3.
+3. [Checkout Times for all Users](https://public.tableau.com/app/profile/lois2018/viz/Mod14_1_16681998226970/CheckoutTimesforUsers):
 
+4. [Checkout Times by Gender](https://public.tableau.com/app/profile/lois2018/viz/Mod14_2/CheckoutTimesbyGender): 
 
-at least seven visualizations for the NYC Citibike analysis
+5. [Trips on Weekday per Hour](https://public.tableau.com/app/profile/lois2018/viz/Mod14_3_16681999413690/TripsByWeekdayperHour):
 
-- 
+6. [Trips by Gender on Weekday per Hour](https://public.tableau.com/app/profile/lois2018/viz/Mod14_4/TripsbyGenderWeekdayperHour):
+
+7. [Trips by Gender and User Type](https://public.tableau.com/app/profile/lois2018/viz/Mod14_5/UserTripsbyGender):
+
+8. Number of Rides per Bike:
+
+9. Non-peak hours
+
 
 ## Summary
 
@@ -54,6 +62,10 @@ at least seven visualizations for the NYC Citibike analysis
  
  
 Two additional visualizations are suggested for future analysis
-- More insight into why certain starting and ending locations have more number of bikes. 
-One reason could be areas of interest (tourism) along Hudson River. Tourism group would be customers instead of subscribers.
+- Trip length
+- Understand the nature of start and end locations to determine the popularity of bike usage.
+  proximity to ferry, subway to get to work.
+  tourist spots along Hudson River. Tourism group would be customers instead of subscribers.
+  
+  
 - Why do some locations away from the main city center show bike usage? (start locations at north of boroughs) and start/end locations at west of manhattan? could be the proximity to subway and bike to workplace or bike long distance to work. This group would mostly be subscribers.
