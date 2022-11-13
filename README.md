@@ -50,15 +50,23 @@ Jupyter Notebook is used to convert the trip duration data to datetime type.
 ![NYC Citibike Data](images/report_2.png "Bike Maintenance")
 
 4. [Checkout Times for all Users](https://public.tableau.com/app/profile/lois2018/viz/Mod14_1_16681998226970/CheckoutTimesforUsers):
+- This visualization is a graph that shows the length of time that bikes are checked out for all riders.
 <img src="images/viz_1.png" width="700"/>
 
 5. [Checkout Times by Gender](https://public.tableau.com/app/profile/lois2018/viz/Mod14_2/CheckoutTimesbyGender): 
+- This visualization is a graph that shows the length of time that bikes are checked out for each gender.
 <img src="images/viz_2.png" width="700"/>
 
 6. [Trips on Weekday per Hour](https://public.tableau.com/app/profile/lois2018/viz/Mod14_3_16681999413690/TripsByWeekdayperHour):
+- This visualization is a heatmap showing the number of bike trips by weekday for each hour of the day.
+- The weekdays (esp. Thursday, Monday, Tuesday) show heavy bike usage during commute times. 
+- The weekend usage is spread throughout the middle of the day.
+- 7AM-10AM and 4PM-8PM are the peak hours of bike usage.
 <img src="images/viz_3.png" width="700"/>
 
 7. [Trips by Gender on Weekday per Hour](https://public.tableau.com/app/profile/lois2018/viz/Mod14_4/TripsbyGenderWeekdayperHour):
+- This visualization is a heatmap showing the number of bike trips by gender for each hour of each day of the week.
+- Males heavily use bike services during peak hours followed by females.
 <img src="images/viz_4.png" width="700"/>
 
 8. [Trips by Gender and User Type](https://public.tableau.com/app/profile/lois2018/viz/Mod14_5/UserTripsbyGender):
@@ -73,6 +81,7 @@ Jupyter Notebook is used to convert the trip duration data to datetime type.
 
 #### High-level Summary of the Results
 
+- The most popular ride times stay the same irrespective of the gender.
 - Just like NYC has more subscribers for bike sharing compared to customers, Des Moines should also push for subscription services.
 - Since male subscribers show higher bike usage followed by female subscribers in NYC, Des Moines should also target males as they prefer biking as shown in the current analysis.
 - One third of the bikes need repair/service during non peak hours (1AM - 5AM)
