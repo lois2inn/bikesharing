@@ -19,6 +19,7 @@ After a trip to NYC and using citibikes there, a data analyst creates a proposal
 ## Results
 
 #### Link to Tableau Story
+[NYC Citibike Data Story](https://public.tableau.com/app/profile/lois2018/viz/Mod14_Story/NYCCitibikeStory)
 
 #### Cleaning the data
 
@@ -83,7 +84,7 @@ Jupyter Notebook is used to convert the trip duration data to datetime type.
 
 #### High-level Summary of the Results
 
-- The most popular ride times (7AM-10AM and 4PM-8PM) stay the same irrespective of the gender.
+- The most popular ride times (7AM-10AM and 4PM-8PM) during the weekdays stay the same irrespective of the gender.
 - Just like NYC has more subscribers for bike sharing compared to customers, Des Moines should also push for subscription services.
 - Since male subscribers show higher bike usage followed by female subscribers in NYC, Des Moines should also target males as they prefer biking as shown in the current analysis.
 - One third of the bikes need repair/service during non peak hours (1AM - 5AM)
