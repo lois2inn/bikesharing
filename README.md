@@ -81,14 +81,11 @@ Jupyter Notebook is used to convert the trip duration data to datetime type.
 
 #### High-level Summary of the Results
 
-- The most popular ride times stay the same irrespective of the gender.
+- The most popular ride times (7AM-10AM and 4PM-8PM) stay the same irrespective of the gender.
 - Just like NYC has more subscribers for bike sharing compared to customers, Des Moines should also push for subscription services.
 - Since male subscribers show higher bike usage followed by female subscribers in NYC, Des Moines should also target males as they prefer biking as shown in the current analysis.
 - One third of the bikes need repair/service during non peak hours (1AM - 5AM)
 
-
- 
- 
 #### Additional Visualizations for Future Analysis:
 - There is a need to understand why the dark colored locations in the below visualization are so popular. Are they close to ferries or subways or workplaces? Understanding the nature of these locations is crucial for establishing bike locations in Des Moines. It would also help to look at how far do bikers travel and which stations are most popular. 
 <img src="images/reco_1.png" width="600"/>
