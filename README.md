@@ -51,10 +51,12 @@ Jupyter Notebook is used to convert the trip duration data to datetime type.
 
 4. [Checkout Times for all Users](https://public.tableau.com/app/profile/lois2018/viz/Mod14_1_16681998226970/CheckoutTimesforUsers):
 - This visualization is a graph that shows the length of time that bikes are checked out for all riders.
+- The bikes are checked out for approximately 4 to 6 hours.
 <img src="images/viz_1.png" width="700"/>
 
 5. [Checkout Times by Gender](https://public.tableau.com/app/profile/lois2018/viz/Mod14_2/CheckoutTimesbyGender): 
 - This visualization is a graph that shows the length of time that bikes are checked out for each gender.
+- Male users take approximately 3 times more rides than the female users.
 <img src="images/viz_2.png" width="700"/>
 
 6. [Trips on Weekday per Hour](https://public.tableau.com/app/profile/lois2018/viz/Mod14_3_16681999413690/TripsByWeekdayperHour):
